@@ -1,3 +1,5 @@
+![Xmuse](https://github.com/user-attachments/assets/fcff35d9-f798-4f67-a366-5d3a4e6f0be5)
+
 # Xmuse
 欢迎访问Xmuse脑电波仪的GitHub仓库！Xmuse是一个高精度、可穿戴的脑电波仪，旨在帮助用户实时监测和分析脑电活动。此仓库包含了Xmuse脑电波仪相关的代码、文档及其它技术资料，供开发者和研究人员使用和贡献。
 ## 产品亮点：
