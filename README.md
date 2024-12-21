@@ -1,4 +1,4 @@
-![Xmuse](https://github.com/user-attachments/assets/fcff35d9-f798-4f67-a366-5d3a4e6f0be5)
+<img src="https://github.com/user-attachments/assets/b20b9b16-dbe4-4b30-a0a4-7c4dc574106b" width="500" height="500"><img src="https://github.com/user-attachments/assets/bd583098-de89-4a52-b79d-6da2364e5466" width="500" height="300">
 
 # Xmuse
 欢迎访问Xmuse脑电波仪的GitHub仓库！Xmuse是一个高精度、可穿戴的脑电波仪，旨在帮助用户实时监测和分析脑电活动。此仓库包含了Xmuse脑电波仪相关的代码、文档及其它技术资料，供开发者和研究人员使用和贡献。
@@ -11,7 +11,7 @@
 - 提供完善的SDK，易于集成的API接口，支持各种周边应用开发。
 - 多种生理信号的采集（包含心率、血氧、体温）。
 - 六通道脑电数据的采集（包含4通道+2扩展通道，4通道分别对应大脑的左颞叶、左前额、右前额、右颞叶；其电极位的对应是：TP9.AF7.AF8.TP10）。
-  
+
 ## 主要功能:
 **脑电波数据采集**：支持高分辨率的脑电波信号采集和保存，实时输出波形数据。  
 **多模态数据集成**：可以结合心率、血氧、体动等其他生理信号，提供多模态数据输入。  
