@@ -77,6 +77,5 @@ Xmuse的设计理念强调便捷、智能和无创，符合中国消费者对健
 客户支持：support@xmuse.cn  
 
 ![image](https://github.com/user-attachments/assets/86699971-d976-4f1e-8204-aa2f62b90cf9)
-
 <img width="1540" height="596" alt="联系方式" src="https://github.com/user-attachments/assets/1d2e21ee-a010-4efa-b8d4-9f2205f28b2c" />
 
