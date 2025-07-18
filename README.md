@@ -61,12 +61,19 @@ Xmuse的设计理念强调便捷、智能和无创，符合中国消费者对健
 ## 联系我们
 
 如果您对Xmuse感兴趣或有任何疑问，请随时联系我们：  
+
 公司名字：厦门北洋瑞恒智慧健康有限公司  
+
 公司地址：厦门火炬高新区火炬园嘉禾路588号第七层704-04室  
+
 公司网站：www.xmuse.cn  
+
 联系邮箱：linzy@xmuse.cn
+
 业务合作：722@xmuse.cn
+
 技术支持：1024@xmuse.cn
+
 客户支持：support@xmuse.cn  
 
 ![image](https://github.com/user-attachments/assets/86699971-d976-4f1e-8204-aa2f62b90cf9)
