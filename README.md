@@ -1,5 +1,4 @@
-![image-20250718143159234](../../../AppData/Roaming/Typora/typora-user-images/image-20250718143159234.png)
-
+<img width="2074" height="828" alt="产品图片" src="https://github.com/user-attachments/assets/30ea1768-84c9-466a-b6c1-042034214705" />
 
 # Xmuse
 欢迎访问Xmuse脑电波仪的GitHub仓库！Xmuse是一个高精度、可穿戴的脑电波仪，旨在帮助用户实时监测和分析脑电活动。此仓库包含了Xmuse脑电波仪相关的代码、文档及其它技术资料，供开发者和研究人员使用和贡献。
@@ -56,7 +55,8 @@ Xmuse的设计理念强调便捷、智能和无创，符合中国消费者对健
 
 为了推动脑机接口技术的创新与应用,厦门北洋瑞恒智慧健康有限公司与多家顶尖学术机构和行业领先企业建立了深度合作关系。与天津大学、脑机交互与人机共融海河实验室等科研机构的合作,极大提升了产品的技术水平。同时,北洋瑞恒与国际创新公司合作,为产品的研发和技术迭代提供了源源不断的动力。与盈趣科技(002925,SZ)的紧密合作,也使公司在国内市场的影响力日益增强,进一步推动了脑机接口技术的本土化应用。
 
-![image-20250718144007048](../../../AppData/Roaming/Typora/typora-user-images/image-20250718144007048.png)
+<img width="1514" height="1134" alt="佩戴人员" src="https://github.com/user-attachments/assets/5dc01ed3-5e95-43bb-92ed-900be4dbff6c" />
+
 
 ## 联系我们
 
@@ -78,4 +78,5 @@ Xmuse的设计理念强调便捷、智能和无创，符合中国消费者对健
 
 ![image](https://github.com/user-attachments/assets/86699971-d976-4f1e-8204-aa2f62b90cf9)
 
-![image-20250718144539656](../../../AppData/Roaming/Typora/typora-user-images/image-20250718144539656.png)
+<img width="1540" height="596" alt="联系方式" src="https://github.com/user-attachments/assets/1d2e21ee-a010-4efa-b8d4-9f2205f28b2c" />
+
