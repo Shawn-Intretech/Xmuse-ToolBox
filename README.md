@@ -1,4 +1,5 @@
-<img width="2074" height="828" alt="产品图片" src="https://github.com/user-attachments/assets/30ea1768-84c9-466a-b6c1-042034214705" />
+<img width="1754" height="714" alt="产品资料" src="https://github.com/user-attachments/assets/e72cd0d2-d09b-4a1f-b6b7-afeb50be5fd6" />
+
 
 # Xmuse
 欢迎访问Xmuse脑电波仪的GitHub仓库！Xmuse是一个高精度、可穿戴的脑电波仪，旨在帮助用户实时监测和分析脑电活动。此仓库包含了Xmuse脑电波仪相关的代码、文档及其它技术资料，供开发者和研究人员使用和贡献。
