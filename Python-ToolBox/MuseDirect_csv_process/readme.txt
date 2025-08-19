@@ -4,7 +4,7 @@
 
 该脚本负责辅助进行事件标签的记录。修改脚本中
 buttons = ['EC','EO','Blink', 'Jaw', 'Frown','sacc','nod','talk','updown','empty']
-为想要的任务标签，使用python运行即可。注意，请记得结束时点击保存记录。
+为想要的任务标签，使用python运行即可。注意，请记得结束时点击保存记录。#需在采集的同设备上运行该脚本，以避免可能的时间戳offset。
 
 1_museDirectcsv_splitmodalities.py
 
